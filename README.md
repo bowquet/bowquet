@@ -1,2 +1,5 @@
 ***
-<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/assets/img/linkback.gif" alt="petrapixel"></a>
+<a 
+  href="https://candyskulls.straw.page" target="_blank">
+<img src="https://i.ibb.co/k64fm9sp/D7-D8-E64-B-21-E4-434-B-97-F0-03-A2398-ADE0-F.gif" alt="dawn's strawpage">
+</a>

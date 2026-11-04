@@ -1,9 +1,2 @@
 ***
-<a 
-href="https://candyskulls.straw.page" target="_blank">
-<img src="https://i.ibb.co/k64fm9sp/D7-D8-E64-B-21-E4-434-B-97-F0-03-A2398-ADE0-F.gif" alt="dawn's strawpage">
-</a>
-<a
-href="https://bowquet.atabook.org/" target="_blank">
-<img src="https://i.ibb.co/k64fm9sp/D7-D8-E64-B-21-E4-434-B-97-F0-03-A2398-ADE0-F.gif" alt="dawn's atabook">
-</a>
+![poxos](https://i.ibb.co/ZR2JJk7m/IMG-2773.gif)

@@ -1,2 +1,4 @@
 ***
-![poxos](https://i.ibb.co/ZR2JJk7m/IMG-2773.gif)
+![pony](https://i.ibb.co/yc2CMTFT/Magic-Eraser-261029-214313.png)
+
+![straw](https://i.ibb.co/cfygXhY/IMG-2852.gif)
